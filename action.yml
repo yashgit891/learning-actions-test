@@ -1,4 +1,4 @@
-name: 'Test Actions'
+name: 'Test Actions' 
 description: 'Test Build Deploy projects'
 author: 'Nishant Vaity'
 inputs: 
